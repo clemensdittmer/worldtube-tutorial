@@ -47,8 +47,8 @@ export CHARM_ROOT=/u/guilara/charm_impi_3/mpi-linux-x86_64-smp
 export PATH=$PATH:/u/guilara/charm_impi_3/mpi-linux-x86_64-smp/bin
 
 # Spectre directories
-export SPECTRE_HOME=/path/to/my/spectre/home
-export SPECTRE_BUILD_DIR=/path/to/my/build/directory
+export SPECTRE_HOME=/u/cditt/worldtube-project
+export SPECTRE_BUILD_DIR=/u/cditt/worldtube-project/worldtube-build
 export SPECTRE_RUN_DIR=${PWD}
 # Load python environment
 source $SPECTRE_HOME/env/bin/activate
